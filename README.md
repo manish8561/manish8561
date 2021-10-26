@@ -1,6 +1,6 @@
-<img width="25%" align="left" src="https://drive.google.com/uc?id=10GZ8PXcF72Srzk6spv8B4kulW0j_eqc-" alt="cover" />
+<img width="25%" align="left" src="https://avatars.githubusercontent.com/u/36162400?v=4" alt="cover" />
 
-<h1> Hello Fellow < Developers/ >! <img src = "https://avatars.githubusercontent.com/u/36162400?v=4" width = 30px> </h1>
+<h1> Hello Fellow < Developers/ >! <img src = "https://media0.giphy.com/media/KDDpcKigbfFpnejZs6/giphy.gif?cid=ecf05e47oy6f4zjs8g1qoiystc56cu7r9tb8a1fe76e05oty&rid=giphy.gif" width = 30px> </h1>
 <p align='center'>
 </p>
 
