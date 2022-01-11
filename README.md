@@ -14,7 +14,7 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Solana Blockchain
+- 🔭 I’m currently working on Hyperledger Fabric
 
 - 🌱 I’m currently learning Blockchain Architecture  
 
