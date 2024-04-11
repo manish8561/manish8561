@@ -3,7 +3,7 @@
 </p>
 
 
-![Profile views](https://visitor-badge.glitch.me/badge?page_id=akhilxyz.Aditya664)
+![Profile views](https://github.com/manish8561)
 [![Github](https://img.shields.io/github/followers/manish8561?label=Follow&style=social)](https://github.com/manish8561)
 
 <div size='20px'> Hi! My name is Manish Sharma. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -16,11 +16,11 @@
 
 - 🔭 I’m currently working on Python
 
-- 🌱 I’m currently learning Blockchain Architecture  
+- 🌱 I’m currently learning Blockchain  
 
-- 👯 I’m looking to collaborate on Projects,Tech Articles 
+- 👯 I’m looking to collaborate on Projects, Tech Articles 
 
-- 💬 Talk to me about Python, Go Lang, JavaScript, Freelancing Opportunites, Full Stack, Blockchain Open Source, Hyperledger Fabric
+- 💬 Talk to me about Python, Golang, JavaScript, Freelancing opportunities, Full Stack, Blockchain Open Source, Hyperledger Fabric
 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
 <a href = 'https://www.linkedin.com/in/manish-sharma-03a95566/'> <img width = '32px' align= 'center' src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/linked-in-alt.svg"/></a> 
@@ -55,8 +55,8 @@
 
 <p align="center">
 <a href="https://github.com/manish8561">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=AVS1508&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=akhilxyz&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=manish8561&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=manish8561&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
 
