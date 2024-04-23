@@ -12,11 +12,11 @@
 <img width="55%" align="right" alt="Github" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
 
 
-- 🔭 I’m currently working on Python
+- 🔭 I’m currently learning Python.
 
-- 🌱 I’m currently learning Blockchain  
+- 🌱 I’m currently working with Blockchain.
 
-- 👯 I’m looking to collaborate on Projects, Tech Articles 
+- 👯 I’m looking to collaborate on Projects, Tech Articles, Contribution 
 
 - 💬 Talk to me about Python, Golang, JavaScript, Freelancing opportunities, Full Stack, Blockchain Open Source, Hyperledger Fabric
 
