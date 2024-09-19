@@ -14,7 +14,7 @@
 
 - 🔭 I’m currently learning Golang.
 
-- 🌱 I’m also worked as a Blockchain Developer.
+- 🌱 I also worked as a Blockchain Developer.
 
 - 👯 I’m looking to collaborate on Projects, Tech Articles, Contribution 
 
