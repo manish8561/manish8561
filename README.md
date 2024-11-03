@@ -77,6 +77,15 @@
 <a href="https://www.facebook.com/manish198646/"><img src="https://img.shields.io/badge/-@manish-1877F2?style=flat&logo=Facebook&logoColor=white"/></a>
 </p>
 
+## Support Me
+
+If you found this project helpful, please consider supporting me to help me keep improving it! You can buy me a coffee:
+
+[![Buy Me a Coffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-donate-ffdd00?style=flat&logo=buy-me-a-coffee)](https://www.buymeacoffee.com/manish8561)
+
+Or, click here: [Buy Me a Coffee](https://www.buymeacoffee.com/manish8561)
+
+
 -----
   
   
